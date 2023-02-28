@@ -13,4 +13,4 @@ every time period I will update this repo with new project 🙏
 
 # Content
 
-- Data Science project about weather data
+- QA about weather data
